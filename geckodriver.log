@@ -1,0 +1,87 @@
+1615360150865	geckodriver	INFO	Listening on 127.0.0.1:53688
+1615360154411	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gtcan\\AppData\\Local\\Temp\\rust_mozprofileXlXvnb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615360164058	Marionette	INFO	Listening on port 53697
+1615360164629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.bb3fd33e416dfb0e3774.js, line 1: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:331:29
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615360190419	Marionette	INFO	Stopped listening on port 53697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615363488342	geckodriver	INFO	Listening on 127.0.0.1:49898
+1615363493279	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gtcan\\AppData\\Local\\Temp\\rust_mozprofileJ0Gvpm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1615363516882	Marionette	INFO	Listening on port 49906
+1615363517730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.bb3fd33e416dfb0e3774.js, line 1: unreachable code after return statement
+JavaScript error: https://secure.quantserve.com/aquant.js?a=p-xLEyC0FLYFXAH, line 2: NS_ERROR_UNEXPECTED: 
+1615363548270	Marionette	INFO	Stopped listening on port 49906
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615374625429	geckodriver	INFO	Listening on 127.0.0.1:56727
+1615374628882	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\gtcan\\AppData\\Local\\Temp\\rust_mozprofileapInje"
+*** You are running in headless mode.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:1615374656451	Marionette	INFO	Listening on port 56751
+1615374657530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.bb3fd33e416dfb0e3774.js, line 1: unreachable code after return statement
+rce:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1615374656451	Marionette	INFO	Listening on port 56735
+1615374657530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615374706493	geckodriver	INFO	Listening on 127.0.0.1:56871
+1615374709774	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\gtcan\\AppData\\Local\\Temp\\rust_mozprofileL0ecS6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615374715436	Marionette	INFO	Listening on port 56879
+1615374715616	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54216
+1615375077762	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\gtcan\\AppData\\Local\\Temp\\rust_mozprofile4UmrKP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615375090126	Marionette	INFO	Listening on port 54224
+1615375090373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.bb3fd33e416dfb0e3774.js, line 1: unreachable code after return statement
+1615375108793	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.43b4d309e9b786b8f830.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54384
+1615375165327	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\gtcan\\AppData\\Local\\Temp\\rust_mozprofileVCb21R"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615375177175	Marionette	INFO	Listening on port 54392
+1615375178162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.bb3fd33e416dfb0e3774.js, line 1: unreachable code after return statement
+1615375199643	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.43b4d309e9b786b8f830.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.43b4d309e9b786b8f830.js, line 1: unreachable code after return statement
+JavaScript error: https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.cc2ac58b68f5f017ccef.js, line 1: TypeError: Error.captureStackTrace is not a function
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.43b4d309e9b786b8f830.js, line 1: unreachable code after return statement
+JavaScript error: https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.cc2ac58b68f5f017ccef.js, line 1: TypeError: Error.captureStackTrace is not a function
+JavaScript error: https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.cc2ac58b68f5f017ccef.js, line 1: TypeError: Error.captureStackTrace is not a function
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.43b4d309e9b786b8f830.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1616153216302	geckodriver	INFO	Listening on 127.0.0.1:50190
+1616153219208	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\gtcan\\AppData\\Local\\Temp\\rust_mozprofileFffAEN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616153226867	Marionette	INFO	Listening on port 50198
+1616153227220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.dc66d5505969782a8646.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.d41c2db7e7c18ef0953a.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.d41c2db7e7c18ef0953a.js, line 1: unreachable code after return statement
+JavaScript error: https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.e60f739a45cb2dd5fd1f.js, line 1: TypeError: Error.captureStackTrace is not a function
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE

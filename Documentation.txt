@@ -1,0 +1,11 @@
+Hi, thanks for giving me a job <3
+
+INSTRUCTIONS:
+1. Open the settings.config file with Notepad
+2. Change the values of the Username, Password, and paste the message that you want to send.
+3. Keep the config file in the same folder as the redditautomation.exe.
+4. Copy geckodriver (also obtainable at https://github.com/mozilla/geckodriver/releases) to C:\Windows\System32
+5. Install Firefox browser
+6. Run the program. You might need to allow it access to public and private networks when the dialog box pops up.
+
+N.B. I included the raw py file so that you can have no fear of malicious attacks
